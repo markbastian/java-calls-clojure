@@ -31,7 +31,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>interop.Main</mainClass>
+                    <mainClass>interop.MainJavaClassGen</mainClass>
                     <arguments>
                     </arguments>
                 </configuration>
