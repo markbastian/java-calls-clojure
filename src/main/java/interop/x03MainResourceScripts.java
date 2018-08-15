@@ -11,7 +11,7 @@ import java.util.List;
  * Clojure then load them in your project. This works best if the functions are static and even better if you create a
  * bridge method.
  */
-public class MainResourceScripts {
+public class x03MainResourceScripts {
     //Prevent script reloads.
     static { //Did you know you could do this?
         try {

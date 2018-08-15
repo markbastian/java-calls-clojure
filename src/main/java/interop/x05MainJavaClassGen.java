@@ -9,7 +9,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class MainJavaClassGen {
+public class x05MainJavaClassGen {
     public static void main(String[] args) throws IOException {
         //Data
         List<Double> doubles = new LinkedList<>();
